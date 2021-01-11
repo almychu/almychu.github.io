@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gokart on Albert Chu</title>
+    <link>https://almychu.github.io/categories/gokart/</link>
+    <description>Recent content in gokart on Albert Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almychu.github.io/categories/gokart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Go-kart from Scratch</title>
+      <link>https://almychu.github.io/blog/gokart/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://almychu.github.io/blog/gokart/</guid>
+      <description>&lt;!-- This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. --&gt;
+&lt;p&gt;Here&amp;rsquo;s an image of a gokart racer in action:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://almychu.github.io/img/gokart/gokartgallo.PNG&#34; alt=&#34;Gokarter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Move along.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

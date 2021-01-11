@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Albert Chu</title>
+    <link>https://almychu.github.io/categories/</link>
+    <description>Recent content in Categories on Albert Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almychu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>engine</title>
+      <link>https://almychu.github.io/categories/engine/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://almychu.github.io/categories/engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gokart</title>
+      <link>https://almychu.github.io/categories/gokart/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://almychu.github.io/categories/gokart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>propulsion</title>
+      <link>https://almychu.github.io/categories/propulsion/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://almychu.github.io/categories/propulsion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

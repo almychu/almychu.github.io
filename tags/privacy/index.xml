@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on Albert Chu</title>
+    <link>https://almychu.github.io/tags/privacy/</link>
+    <description>Recent content in privacy on Albert Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almychu.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ExCycle</title>
+      <link>https://almychu.github.io/blog/excycle/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://almychu.github.io/blog/excycle/</guid>
+      <description>&lt;!-- 
+Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</description>
+    </item>
+    
+  </channel>
+</rss>
