@@ -13,9 +13,9 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://almychu.github.io/about/</guid>
-      <description>Albert is a senior in Dow House at Phillips Exeter Academy. He&amp;rsquo;s originally from California, although he&amp;rsquo;s spent time living abroad as well.
-Albert is passionate about space and robots! He developed software for the MIT STAR lab&amp;rsquo;s DemiSat last summer, and has also worked on various robotics projects in the past. He enjoys whittling, tinkering with his soldering iron, and launching loud rockets in the backyard.
-Albert is an avid Public Forum debater and is a three-time Nationals qualifier.</description>
+      <description>Albert is a senior in Dow House at Phillips Exeter Academy. He&amp;rsquo;s originally from California, although he&amp;rsquo;s spent time living abroad in Shanghai and Suzhou, China as well.
+Albert is passionate about space and robotics! He developed software for the MIT STAR Lab&amp;rsquo;s DemiSat last summer, is a Co-President of Exeter&amp;rsquo;s three robotics teams for SeaPerch, MATE, and FTC, and loves to whittle and tinker around with various electronics.
+Albert co-founded the Public Forum Debate team at Exeter and is a three-time Nationals qualifier.</description>
     </item>
     
     <item>
@@ -25,9 +25,13 @@ Albert is an avid Public Forum debater and is a three-time Nationals qualifier.<
       
       <guid>https://almychu.github.io/blog/gokart/</guid>
       <description>&lt;!-- This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. --&gt;
+&lt;p&gt;Above is the final version of the go-kart, completed just in time for a few test-drives before COVID shut down campus.&lt;/p&gt;
+&lt;p&gt;When I started the Automotive Engineering Club with a few friends, we had intended it as a weekly space for us to come together to profess our love for cars and discuss hot topics like the latest advancements in regenerative breaking as well as Elon Musk and Tesla&amp;rsquo;s &amp;ldquo;100 hour work weeks.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;After a group visit to a local mechanic&amp;rsquo;s shop however, someone suggested building a car or motorcycle as a group, and after some debate, we settled on ideal compromise between complexity and practicality (we&amp;rsquo;re still highschoolers after all)—the go-kart.&lt;/p&gt;
+&lt;p&gt;A close-up of the engine after we first put it together and were testing its output:
+&lt;img src=&#34;https://almychu.github.io/img/gokart/gokartengine.PNG&#34; alt=&#34;Engine&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s an image of a gokart racer in action:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://almychu.github.io/img/gokart/gokartgallo.PNG&#34; alt=&#34;Gokarter&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Move along.&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://almychu.github.io/img/gokart/gokartgallo.PNG&#34; alt=&#34;Gokarter&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

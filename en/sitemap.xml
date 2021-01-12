@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://almychu.github.io/categories/builds/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://almychu.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -148,32 +153,17 @@
   </url>
   
   <url>
-    <loc>https://almychu.github.io/tags/css/</loc>
+    <loc>https://almychu.github.io/tags/engine/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://almychu.github.io/categories/engine/</loc>
+    <loc>https://almychu.github.io/tags/gokart/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://almychu.github.io/categories/gokart/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://almychu.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://almychu.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://almychu.github.io/categories/propulsion/</loc>
+    <loc>https://almychu.github.io/tags/propulsion/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,11 +223,6 @@
   </url>
   
   <url>
-    <loc>https://almychu.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://almychu.github.io/blog/excycle/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -250,6 +235,11 @@
   <url>
     <loc>https://almychu.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://almychu.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
